@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaronroh/BOB/develop_track/bob_homework/white-box_crypto/answer.c
+whitebox-homework1.h
+/home/aaronroh/BOB/develop_track/bob_homework/white-box_crypto/whitebox-homework1.h
+
+/home/aaronroh/BOB/develop_track/bob_homework/white-box_crypto/whitebox-homework1.h
+stdio.h
+-
+unistd.h
+-
+stdint-gcc.h
+-
+
